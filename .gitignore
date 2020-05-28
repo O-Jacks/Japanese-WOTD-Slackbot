@@ -1,0 +1,14 @@
+# editors
+.vscode/
+.DS_Store
+
+# virtualenv
+.venv
+venv/
+ENV/
+
+__pycache__/
+*.pyc
+*.egg-info/
+*.egg
+.env
